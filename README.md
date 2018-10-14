@@ -1,5 +1,5 @@
 # Analysis-of-Hollywood-Movies-Using-HDFS-and-Mapreduce-APIs
-This project is an analysis of the number of hollywood movies made from 1913 to 2014 using as HDFS as file distribution system and using Mapreduce Framework as execution engine.The analysis has also been verified using HIVE query language using a internal database.
+This project is an analysis of the number of hollywood movies made from 1913 to 2014 using as HDFS as file distribution system and using Mapreduce Framework as execution engine.The analysis has also been verified using HIVE query language using a internal database.The dataset is provided along side by the name of movies-dataset.csv and should be put into the hdfs for working.Mapreduce 2 APIs are utilised in the project.
 
 
 
