@@ -3,7 +3,7 @@ This project is an analysis of the number of hollywood movies made from 1913 to 
 
 
 
-**Project Tasks for Analysis  :
+Project Tasks for Analysis  :
 * Find the number of movies released between 1950 and 1960.
 * Find the number of movies having rating more than 4.
 * Find the movies whose rating are between 3 and 4.
